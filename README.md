@@ -15,6 +15,7 @@ Developed a C program to assist with basic geometric measurements. The program p
 <h2>Environments Used</h2>
 
 - <b>Windows 11</b>
+- <b>Visual Studio Code</b>
 
 <h2>Project Walk-Through:</h2>
 
