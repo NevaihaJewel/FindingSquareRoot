@@ -1,4 +1,4 @@
-<h1>Finding The Square Root</h1>
+<h1>Square Root Calculator</h1>
 
 <h2>Description</h2>
 Developed a C program to assist with basic geometric measurements. The program prompts the user for two inputs, computes their sum, and then calculates the square of that sum. This project demonstrates my understanding of fundamental C programming concepts, including:
